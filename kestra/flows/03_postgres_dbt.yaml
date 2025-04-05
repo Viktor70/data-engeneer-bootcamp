@@ -40,7 +40,7 @@ tasks:
         outputs:
           dev:
             type: postgres
-            host: postgres-zoomcamp
+            host: 127.0.0.1
             user: kestra
             password: k3str4
             port: 5432
